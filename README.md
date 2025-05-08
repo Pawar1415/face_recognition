@@ -13,7 +13,7 @@ This project is a simple and effective **Face Recognition System** built with Py
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - OpenCV
